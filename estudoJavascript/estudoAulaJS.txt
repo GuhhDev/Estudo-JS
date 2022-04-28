@@ -1,0 +1,34 @@
+
+	JavaScript - methods:
+
+.reverse(); - reverte a ordem do array;
+
+.shift(); - remove a primeira posição do array;
+
+.unshift("", ""); - adiciona um ou mais elementos do array;
+
+.pop(); - remove o último elemento do array;
+
+.push("", ""); - adiciona uma lista de valores separados por vírgula no final;
+ 
+.splice(3,2); - remove 2 valores da posição 3 em diante;
+
+----------------------------------------------------------
+
+slice(); - ele retorna o mesmo array em array diferente;
+
+indexOf(); - retorna o primeiro elemento encontrado depois do índice especificado;
+
+join(); - quebra o array e separa por vírgulas (padrão), você pode especificar o que irá separar.
+
+----------------------------------------------------------
+
+	Function JS 
+
+criam um resultado imediatamente ou providencia uma resposta pra ser usada em outra função.
+
+-funções nomeadas: executadas quando chamada por nome;
+
+-função anônimas: roda uma vez ou é desencadeado por evento específico;
+
+-funções IIIFE (imediatamente invocada): roda quando o navegador encontra;
